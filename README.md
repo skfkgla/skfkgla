@@ -4,7 +4,6 @@
 <h5 align="center">안녕하세요! Spring backend에 관심을 두고 꾸준히 공부 중인 이나라힘 이라고 합니다.</p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-DA1F26?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>

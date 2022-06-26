@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/docker-0085CA?style=flat-square&logo=docker&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/react-40AEF0?style=flat-square&logo=react&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/mysql-1B72BE?style=flat-square&logo=mysql&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/nginx-006600?style=flat-square&logo=nginx&logoColor=white"/></a>
 </p>
 
 <br>

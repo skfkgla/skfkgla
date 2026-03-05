@@ -1,25 +1,38 @@
+### 👋 Hi there, I'm skfkgla
 
+## I'm a Backend Engineer. I love building reliable and scalable systems.
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&fontAlignY=40&color=gradient)
-<p align="center">Hi 👋</p>
-<h5 align="center">안녕하세요! Spring backend에 관심을 두고 꾸준히 공부 중인 이나라힘 이라고 합니다.</p>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+- ❤️ I love programming.
+- ✨ I want to build useful things with code.
+- 😜 I enjoy learning new technologies.
+- 💭 I always think about better ways to write code.
+- 📜 I love to record and share what I learn.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-DA1F26?style=flat-square&logo=Java&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/docker-0085CA?style=flat-square&logo=docker&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/react-40AEF0?style=flat-square&logo=react&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/MySQL-1B72BE?style=flat-square&logo=MySQL&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/nginx-006600?style=flat-square&logo=nginx&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/></a>
-</p>
+### 🤝 Contact & Channel
 
-<br>
+[![Tech Blog](https://img.shields.io/badge/-Tech%20Blog-%23181717?style=flat-square&logo=Github&logoColor=white)](https://himlog.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:narahim.lee@gmail.com)
 
-<h3 align="center"> 📫 Contact  </h3>
-<p align="center">Please feel free to email</p>
-<p align="center">
- <a href="mailto:narahim.lee@gmail.com">narahim.lee@gmail.com</a>
-</p>
+### ⌨ Language & Database
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat-square&logo=Redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-%23005571?style=flat-square&logo=Elasticsearch&logoColor=white)
+
+### ⛓ Framework
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
+
+### 🛠 DevOps & Tools
+
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=Docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-%232088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white)
+
+### 🌱 Open Source Contribution
+
+[![Spring Security](https://img.shields.io/badge/Spring%20Security-Contributor-%236DB33F?style=flat-square&logo=Spring&logoColor=white)](https://github.com/spring-projects/spring-security/pull/18845)
+
+## Thank you for visiting
